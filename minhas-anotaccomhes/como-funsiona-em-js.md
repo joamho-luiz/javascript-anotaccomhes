@@ -1,6 +1,6 @@
 # Aula 05
 
-### _Comentários_
+### Comentários
 
 // Comentário
 
@@ -8,11 +8,11 @@
     Comentário
 */
 
-### _Variáveis_
+### Variáveis
 
 `var variavelzinha = null`          A variável de nome 'variavelzinha' recebe (é atribuido a ela) um valor nulo. Também é possível usar 'let' no lugar de 'var'.
 
-*Regras para identificadores:*
+**Regras para identificadores:**
 
 * Podem começar com: (Letras, $ ou _).
 * É possível usar acento e símbolo. 
@@ -20,17 +20,17 @@
 * Cuidado com as palavras reservadas.
 * Maiúscula e minúscula fazem diferença.
 
-*Tipos de dados:*
+**Tipos de dados:**
 
 * Number        
-- Infinity
-- NaN
+   - Infinity
+   - NaN
 * String
 * Boolean
 * Null
 * Undefined
 * Object
-- Array
+   - Array
 * Function
 
 Para ver o tipo da variável no notejs: `typeof nome-da-variável`.
