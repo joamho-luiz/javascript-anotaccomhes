@@ -1,4 +1,4 @@
-#Aula 04
+# Aula 04
 
 `window.alert('Olá, mundo!')`           Para mostrar um mensagem.
 
