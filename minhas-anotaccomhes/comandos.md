@@ -5,3 +5,5 @@
 `window.confirm('Está tudo rodando certo?')`      Para confirmar uma ação.
 
 `window.prompt('Deixei sua mensagem aqui.')`      Para capturar texto.
+
+Obs.: 'window.' pode ser omitido.
