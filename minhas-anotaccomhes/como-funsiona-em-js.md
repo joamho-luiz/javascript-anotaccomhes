@@ -34,3 +34,8 @@
 * Function
 
 Para ver o tipo da variável no notejs: `typeof nome-da-variável`.
+
+# Aula 06
+
+_Contatenação_  +    `'alguma coisa + variável'`
+_Templete String_ ${}   ``alguma coisa ${variável}`` (Atenção, aqui se usa apenas o acento grave).
