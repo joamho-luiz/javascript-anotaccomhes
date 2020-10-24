@@ -52,3 +52,9 @@ Seleção de elementos: `window.document` + ...   (o window. pode ser omitido)
 **Por Classe**      `.getElementsByClasseName('')[]`
 
 **Por Seletor**     `querySelector('tag#id')`       (Ou tag.class)
+
+# Aula 10
+
+`a.addEventListener('click', clicar)`       (clicar é uma função na qual eu vou colocar uma ação).
+`a.addEventListener('mouseenter', entrar)`
+`a.addEventListener('mouseout', sair)`
