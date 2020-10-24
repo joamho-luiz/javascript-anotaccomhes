@@ -44,6 +44,8 @@ _Templete String_ ${}   ``alguma coisa ${variável}`` (Atenção, aqui se usa ap
 
 _Operadores_
 
+(Em uma linha de código primeiro são calculados os operadores aritiméticos para depois o relacionais e por fim os Lógicos, respeitando precedências em cada grupo).
+
 **Operadores Aritiméticos**
 
 `+ - * / %` (Resto da divisão inteira) `**` (Potenciação)
@@ -51,3 +53,21 @@ _Operadores_
 Auto atribuição      `n += 2`
 Incremento        `n ++`
 Decremento        `n --`
+
+**Relacionais**
+
+`> < >= <= == !=`    
+
+`5 = '5'` -->  `true`      (Ambos tem o mesmo valor, embora não tenham o mesmo tipo).
+
+`5 === '5'`  -->  `false`     (Operador de Identidade ou Operador de Igualdade Restrita, esse verifica se ambos tem o mesmo valor e mesmo tipo). (`!===` desigual restrioto).
+
+(Não há order de precedência).
+
+**Lógicos**
+
+`!` (Negação) `$$` (Conjunção) `||` (Disjunção) (Esta é a ordem de execução (precedência)).
+
+**Ternário**
+
+`(TESTE) ? (VERDADEIRO) : (FALSO)`
