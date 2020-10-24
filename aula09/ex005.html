@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Primeiros passos com DOM</title>
+    <style>
+        body{
+            background-color: rgba(30, 156, 114, 0.787);
+            color: white;
+            font: normal 18pt Arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Inciando os estudos com DOM</h1>
+    <p>Aqui vai o resultado</p>
+    <p>Aprendendo a usar <strong>DOM</strong> no JavaScript</p>
+    <div id="msg">Clique em mim</div>
+    <script>
+        var p1 = window.document.getElementsByTagName('p')[0] // Esse 0 faz referência ao primeiro paragrafo
+        //window.document.write('<br> Está escrito assim: ' + p1.innerText) 
+        //innerText pega o texto, innerHTML pega toda a formatação.
+        p1.style.color = 'yellow'
+
+        //var corpo = window.document.getElementsByTagName('body')[0]
+        var corpo = document.body
+        corpo.style.background = 'black'
+
+        var mensagem = window.document.getElementById('msg')
+        mensagem.style.background = 'green'
+        mensagem.innerText = 'Carregando...'
+
+        // Selecionando por seletor
+        var mensage = window.document.querySelector('div#msg') // referenciar .classe e #id como no CSS 
+        mensage.style.color = 'black'
+    </script>
+</body>
+</html>

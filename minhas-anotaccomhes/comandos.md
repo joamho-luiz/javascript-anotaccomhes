@@ -38,3 +38,17 @@ Dado: `var n = 1512.6` , temos:
 `n.toFixed(2).replace('.',',')`        Aqui vamos além e formatamos o símbolo de separação => 1 512,6.
 
 `n.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})`       Para mostra na notação de moeda brasileira.
+
+# Aula 09
+
+Seleção de elementos: `window.document` + ...   (o window. pode ser omitido)
+
+**Por Marca:**      `.getElementByTagName('tag')[t]` (n faz refencia a qual elemento do tipo nome).
+
+**Por ID:**         `.getElementById('id')`
+
+**Por Nome**        `.getElementsByName('nome')[n]`
+
+**Por Classe**      `.getElementsByClasseName('')[]`
+
+**Por Seletor**     `querySelector('tag#id')`       (Ou tag.class)
