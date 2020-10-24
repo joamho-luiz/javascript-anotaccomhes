@@ -71,3 +71,17 @@ Decremento        `n --`
 **Ternário**
 
 `(TESTE) ? (VERDADEIRO) : (FALSO)`
+
+# Aula 08
+
+```
+   if (CONDIÇÃO) {
+
+      VERDADE
+
+   } else {
+      
+      FALSO
+      
+   }
+```

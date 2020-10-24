@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Multas</title>
+    <style>
+        div#conteuhdo{
+            background-color: rgba(255, 0, 0, 0.466);
+            width: 650px;
+            height: 400px;
+            text-align: center;
+            padding-top: 50px;
+            font: normal 20pt Arial;
+        }
+        input{
+            font: normal 20pt Arial;
+        }
+        input#vel{
+            width: 60px;
+        }
+    </style>
+</head>
+<body>
+    <div id="conteuhdo">
+        <h1>Sistema de Multas</h1>
+        Velocidade do carro: <input type="number" name="vel" id="vel"> Km/h <input type="button" value="Verificar" onclick="verificar()">
+        <div id="res"></div>
+    </div>
+    <script>
+        function verificar() {
+            var vel = Number(document.getElementById('vel').value)  // Pegando o valor convertendo em número e jogando na variavel
+            var res = window.document.getElementById('res')
+            res.innerHTML = `<p> Sua velocidade atual é de <strong>${vel} Km/h</strong>.</p>`
+            if (vel > 60) {
+                res.innerHTML += `<p>Você está acima da velocidade e tem uma nova <strong>MULTA</strong>.</p>`
+            } else {
+                res.innerHTML += `Mantenha se dirigindo em velocidade segura.`
+            }
+        }
+    </script>
+</body>
+</html>
