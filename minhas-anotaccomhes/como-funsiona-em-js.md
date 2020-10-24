@@ -85,3 +85,15 @@ Decremento        `n --`
       
    }
 ```
+
+# Aula 12
+
+```
+   switch (EXPRESSÃO) {
+      case VALOR 1:
+         AÇÃO
+         break;
+      default:
+         break;
+   }
+```
