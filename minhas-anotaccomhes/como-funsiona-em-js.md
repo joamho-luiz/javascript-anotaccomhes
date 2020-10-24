@@ -39,3 +39,15 @@ Para ver o tipo da variável no notejs: `typeof nome-da-variável`.
 
 _Contatenação_  +    `'alguma coisa + variável'`
 _Templete String_ ${}   ``alguma coisa ${variável}`` (Atenção, aqui se usa apenas o acento grave).
+
+# Aula 07
+
+_Operadores_
+
+**Operadores Aritiméticos**
+
+`+ - * / %` (Resto da divisão inteira) `**` (Potenciação)
+
+Auto atribuição      `n += 2`
+Incremento        `n ++`
+Decremento        `n --`
