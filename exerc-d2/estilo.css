@@ -17,6 +17,21 @@ section{
     margin: auto;
 }
 
+div#res{
+    margin-top: 20px;
+}
+
+input{
+    font: normal 16pt Arial;
+}
+
+input#ano{
+    width: 100px;
+    margin-left: 10px;
+    text-align: center;
+    line-height: 20pt;
+}
+
 footer{
     color: white;
     text-align: center;
