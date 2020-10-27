@@ -3,16 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saudações</title>
+    <title>Verificar Idade</title>
     <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
     <header>
-        <h1>Título</h1>
+        <h1>Verificar Idade</h1>
     </header>
     <section>
-        <div>Testando A</div>
-        <div>Testando B</div>
+        <div>
+            <p>Ano do Nascimento: <input type="number" id="ano" min="0"></p>
+            <p>Gênero:
+                <input type="radio" name="generos" id="gmas" checked>
+                <label for="gmas">Masculino</label>
+                <input type="radio" name="generos" id="gfem">
+                <label for="gfem">Femenino</label>
+                <input type="radio" name="generos" id="gind">
+                <label for="gind">Não declarar</label>
+            </p>
+            <input type="button" value="Verificar" onclick="verificar()">
+        </div>
+        <div id="res">Preencha os dados acima para ver o resultado!</div>
     </section>
     <footer>
         <p>&copy; João Luiz</p>
