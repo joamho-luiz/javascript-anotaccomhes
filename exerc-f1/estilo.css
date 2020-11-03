@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(33, 95, 228, 0.822);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    width: 500px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.671);
+    margin: auto;
+    text-align: center;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+input#nNota{
+    width: 55px;
+}
+
+input{
+    margin: 0px 5px 0px 5px;
+    font: normal 14pt Arial;
+    text-align: center;
+}
+
+input#botamhoF{
+    position: absolute;
+    margin: 20px auto auto 20px;
+}
+
+select{
+    width: 150px;
+    margin-left: -100px;
+}
