@@ -152,3 +152,30 @@ for(let pos in vet) {
 }
 ```
 "Para cada POSIÇÃO (pos, varialvel) dentro do vetor VET ..."
+
+# Aula 16
+
+**Funções**
+
+Considerar um parametro se ele eventualmente não seja passado.
+```
+function soma (n1 = 0, n2 = 0) {
+    return n1 + n2
+}
+```
+Se o parametro n2 não seja passado ser considerado 0.
+
+Pelo fato do JavaScript ser uma línguagem funcional é possível atribuir uma função a uma variável.
+```
+let v = function (x) {
+    return x**2
+}
+```
+(Procurar saber como funciona)
+
+Recursividade - Chamar a própria função dentro dela mesmo.
+```
+function fatorial (n) {
+    return n * fatorial(n-1)
+}
+```
