@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cotadoreco</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header>
+        <h1>Vamos Contar</h1>
+    </header>
+    <section>
+        <div>
+            <p>
+                Início: <input type="number" id="numInicial" class="entrada">
+                Fim: <input type="number" id="numFinal" class="entrada">
+                Passo: <input type="number" id="numPasso" class="entrada" min="1">
+            </p>    
+            <p><input type="button" value="Contar" class="botamho" onclick="Contar()"></p>
+        </div>
+        <div id="resultado"></div>
+    </section>
+    <footer>
+        <p>&copy; João Luiz</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

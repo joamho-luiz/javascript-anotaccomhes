@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(33, 95, 228, 0.822);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    width: 500px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.671);
+    margin: auto;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+div{
+    text-align: center;
+}
+
+input{
+    font: normal 14pt Arial;
+    margin: 0px 5px 0px 5px;
+}
+
+input#nuhmero{
+    width: 50px;
+    text-align: center;
+}
