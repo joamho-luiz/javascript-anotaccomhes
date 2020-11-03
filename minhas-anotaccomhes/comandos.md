@@ -58,3 +58,7 @@ Seleção de elementos: `window.document` + ...   (o window. pode ser omitido)
 `a.addEventListener('click', clicar)`       (clicar é uma função na qual eu vou colocar uma ação).
 `a.addEventListener('mouseenter', entrar)`
 `a.addEventListener('mouseout', sair)`
+
+# Exercicío D2
+
+`var imagem = document.createElement('img')`        Criação de um elemento em JavaScript.

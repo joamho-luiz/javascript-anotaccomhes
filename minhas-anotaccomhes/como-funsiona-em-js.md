@@ -97,3 +97,35 @@ Decremento        `n --`
          break;
    }
 ```
+
+# Aula 13
+
+**Teste lógico no ínicio**
+
+```
+var c = 1
+while (c <= 6) {
+   console.log(`Passo ${c}`)
+   c++
+}
+```
+
+**Teste lógico no final**
+
+```
+var c = 1
+do {
+   console.log(`Passo ${c}`)
+   c++
+} while (c <= 6)
+```
+
+# Aula 14
+
+**Incialização + Teste lógico no início + Incrementação no início**
+
+```
+for (var c = 1; c <= 6; c++) {
+   console.log(`Passo ${c}`)
+}
+```
