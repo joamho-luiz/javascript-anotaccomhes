@@ -129,3 +129,26 @@ for (var c = 1; c <= 6; c++) {
    console.log(`Passo ${c}`)
 }
 ```
+
+# Aula 15
+
+**Vetores**
+
+`let vet = [5, 3, 4]`      Criar vetor e já passar valores.
+
+`vet[3] = 'maçã'`      Colocar 'maçã' no índice 3 do vetor.
+
+`vet.push(7)`     Colocar na próxima posição vaga do veetor VET o valor 7.
+
+`vet.length`      Quantos elementos possui o vetor VET. (.length é um atributo e não um método).
+
+`vet.sort()`      Ordenar os valores por ordem.
+
+`vet.indexOf(X)`     Buscar qual posição se encontra o valor X, se não for encontrado nenhum X retorna o valor -1.
+
+```
+for(let pos in vet) {
+   console.log(`Posição ${pos}  → →  Valor ${vet[pos]}`)
+}
+```
+"Para cada POSIÇÃO (pos, varialvel) dentro do vetor VET ..."
