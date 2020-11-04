@@ -6,7 +6,7 @@ function Adicionar () {
     if (nota.value.length == 0) {
         window.alert('Digite a Nota primeiro.')
     } else {
-        // Paramos https://youtu.be/vEOEZ03ZyiE?t=780
+        window.alert(`Nota: ${n}`)
     }
 }
 
