@@ -24,7 +24,7 @@ footer{
     font-style: italic;
 }
 
-input#nNota{
+input#grade{
     width: 55px;
 }
 
@@ -42,4 +42,6 @@ input#botamhoF{
 select{
     width: 150px;
     margin-left: -100px;
+    text-align: center;
+    font: normal 14pt Arial;
 }
