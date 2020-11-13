@@ -1,12 +1,10 @@
-&nbsp; &nbsp; &nbsp; Este repositório contém anotações pessoais sobre a linguagem JavaScript. Criado com intuito de agrupar soluções de algumas dúvidas simples que eventualmente surjam na utilização da linguagem em questão.
+&nbsp; &nbsp; &nbsp; Este repositório contém anotações pessoais sobre a linguagem JavaScript. Criado com intuito de agrupar soluções de algumas dúvidas simples que eventualmente surjam na utilização da linguagem em  questão.  
+***
 
-&nbsp; &nbsp; &nbsp; As videoaulas lincadas nesse documento são do curso de JavaScript do canal de YouTube 'curso em vídeo'. Recomento muito para quem tem pouca ou nem uma noção sobre a linguagem. E agradeço ao conteúdo gratuito fornecido pelo professor Guanabara.  
+[**BÁSICO DA LÍNGUAGEM**](anotaccomhes/bahsico-da-linguagem.md "Clique para ver o arquivo.md")  
 
-<br/><br/>
-
-**BÁSICO DA LÍNGUAGEM**  
-
-* Nomenclaturas  
+* Nomenclaturas
+  
 
    - De variáveis
 
@@ -14,7 +12,7 @@
 
 <br/>
  
-**INTERAÇÕES**  
+[**INTERAÇÕES**](anotaccomhes/interaccomhes.md "Clique para ver o arquivo.md")    
 
 * Saídas  
 
@@ -28,7 +26,7 @@
 
 <br/>
  
- **FUNDAMENTAIS**  
+ [**FUNDAMENTAIS**](anotaccomhes/fundamentais "Clique para ver o arquivo.md")    
 
 * Memoria  
 
@@ -49,7 +47,7 @@
 
 <br/>
  
-**ESTRUTURAS SELETIVAS**  
+[**ESTRUTURAS SELETIVAS**](anotaccomhes/estruturas-seletivas.md "Clique para ver o arquivo.md")    
 
 * Condições Simples  
 
@@ -63,7 +61,7 @@
 
 <br/>
  
-**ESTRUTURAS REPETITIVAS**  
+[**ESTRUTURAS REPETITIVAS**](anotaccomhes/estruturas-repetitivas.md "Clique para ver o arquivo.md")    
 
 * Teste lógico no início  
 
@@ -75,8 +73,12 @@
 
 <br/>
  
-**ROTINAS**
+[**ROTINAS**](anotaccomhes/rotinas.md "Clique para ver o arquivo.md")  
 
 <br/>
  
-**ORIENTAÇÃO A OBJETO**
+[**ORIENTAÇÃO A OBJETO**](anotaccomhes/orientaccamho-a-objeto.md "Clique para ver o arquivo.md")    
+
+
+*** 
+&nbsp; &nbsp; &nbsp; As videoaulas lincadas nesse documento são do curso de JavaScript do canal de YouTube 'curso em vídeo'. Recomento muito para quem tem pouca ou nem uma noção sobre a linguagem. E agradeço ao conteúdo gratuito fornecido pelo professor Guanabara.  
