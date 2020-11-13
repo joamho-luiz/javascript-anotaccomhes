@@ -18,7 +18,7 @@ Fundamentais
 
 * `vet[3] = 'maçã'` &nbsp; &nbsp; &nbsp; Colocar 'maçã' no índice 3 do vetor.
 
-### Algumas propriedades para vetores.<br/><br/>
+### Algumas propriedades para vetores <br/><br/>
 
 * `vet.push(7)` &nbsp; &nbsp; &nbsp; Colocar na próxima posição vaga do vetor VET o valor 7.
 
