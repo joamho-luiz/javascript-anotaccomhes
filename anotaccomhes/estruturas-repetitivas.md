@@ -1,5 +1,8 @@
 Estrutura de repetições
 ***
+
+Repetições, laços ou interações.
+ 
 <br/>
  
 # Teste lógico no ínicio

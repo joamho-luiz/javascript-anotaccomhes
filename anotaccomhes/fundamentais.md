@@ -14,6 +14,10 @@ Fundamentais
 
 ## Vetores
 
+Também conhecidos como variáveis compostas ou array.
+
+<img src="../mais/imagens/vetor.gif" width="425">   
+
 * `let vet = [5, 3, 4]`   &nbsp; &nbsp; &nbsp; Criar vetor e já passar valores.  
 
 * `vet[3] = 'maçã'` &nbsp; &nbsp; &nbsp; Colocar 'maçã' no índice 3 do vetor.

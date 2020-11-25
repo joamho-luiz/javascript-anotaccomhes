@@ -5,6 +5,14 @@ Rotinas
  
 # Funções
 
+Chamada de funções:   
+
+```javascript
+chamar ( parametro )
+```
+
+Criação de funções:   
+
 ```javascript
 function soma (n1 = 0, n2 = 0) {
     return n1 + n2

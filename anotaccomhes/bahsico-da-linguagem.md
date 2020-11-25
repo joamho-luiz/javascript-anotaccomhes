@@ -22,3 +22,7 @@ Básico da Linguagem
 /*  
     Comentar Bloco  
 */
+
+# Outras Particularidades
+
+O `;` no final de cada comando é opcional.

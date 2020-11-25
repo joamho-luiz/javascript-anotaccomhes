@@ -10,6 +10,8 @@
 
 * Comentários  
 
+* Outras Particularidades
+
 <br/>
  
 [**INTERAÇÕES**](anotaccomhes/interaccomhes.md "Clique para ver o arquivo.md")    
