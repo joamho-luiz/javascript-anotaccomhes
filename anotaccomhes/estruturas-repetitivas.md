@@ -49,3 +49,9 @@ for(let pos in vet) {
     console.log(`Posição ${pos}  → →  Valor ${vet[pos]}`)
 }
 ```
+
+# Controle de loop
+
+* `Break;` sai do loop de repetição.	
+
+* `Continue;` ignora o resto código passa para próxima repetição.

@@ -12,7 +12,7 @@ Estruturas Seletivas
 
 `if ( condição ) { verdadeiro } else { falso }`  
 
-Três possibilidades:  
+Duas condições 
 
 ```javascript
    if ( condição ) {
