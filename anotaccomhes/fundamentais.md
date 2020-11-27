@@ -122,6 +122,6 @@ _Templete String_ ${}   ``alguma coisa ${variável}`` ( só funciona entre crase
 
 ## Lógicos
 
-`!` (Negação) `$$` (Conjunção) `||` (Disjunção) 
+`!` (Negação) `&&` (Conjunção) `||` (Disjunção) 
 
 (Esta é a ordem de execução (precedência)).
