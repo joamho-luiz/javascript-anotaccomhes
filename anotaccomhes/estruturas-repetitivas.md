@@ -31,7 +31,7 @@ do {
 
 <br/>
  
-# Inicialização + Teste lógico no início + Incrementação no início
+# Inicialização + Teste lógico no início + Incrementação
 
 ```javascript
 for (var c = 1; c <= 6; c++) {

@@ -3,7 +3,10 @@ Básico da Linguagem
 <br/>
  
 # Nomenclaturas
-#edt
+
+**camelCase** - objetos, funções e instâncias
+
+**PascalCase** - método construtor
 
 **Variáveis**  
 
