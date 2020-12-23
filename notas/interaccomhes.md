@@ -10,6 +10,9 @@ Para mostrar um mensagem.
 Escreve no próprio corpo. Dá para colocar `.writeln` para próxima linha.   
 * `document.write('Oi')`
 
+Escrever no terminal node.js
+* `console.log('Mensagem')`
+
 <br/>_Obs.: `window.` pode ser omitido._
 
 <br/>

@@ -9,4 +9,3 @@ Alguma formatação de String.
 Document Object Model (só funciona no navegador). Ele é um facilitador para dar acesso aos elementos do HTML (está presente apenas em navegadores)
 
 <img src="imagens/ahrvore-dom.gif" width="400" height="600">
-

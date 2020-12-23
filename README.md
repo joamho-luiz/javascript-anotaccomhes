@@ -1,7 +1,7 @@
 &nbsp; &nbsp; &nbsp; Este repositório contém anotações pessoais sobre a linguagem JavaScript. Criado com intuito de agrupar soluções de algumas dúvidas simples que eventualmente surjam na utilização da linguagem em  questão.  
 ***
 
-[**BÁSICO DA LÍNGUAGEM**](anotaccomhes/bahsico-da-linguagem.md "Clique para ver o arquivo.md")  
+[**BÁSICO DA LÍNGUAGEM**](notas/bahsico.md "Clique para ver o arquivo.md")  
 
 * Nomenclaturas
   
@@ -14,7 +14,7 @@
 
 <br/>
  
-[**INTERAÇÕES**](anotaccomhes/interaccomhes.md "Clique para ver o arquivo.md")    
+[**INTERAÇÕES**](notas/interaccomhes.md "Clique para ver o arquivo.md")    
 
 * Saídas  
 
@@ -28,7 +28,7 @@
 
 <br/>
  
- [**FUNDAMENTAIS**](anotaccomhes/fundamentais "Clique para ver o arquivo.md")    
+ [**FUNDAMENTAIS**](notas/fundamentais "Clique para ver o arquivo.md")    
 
 * Memoria  
 
@@ -49,7 +49,7 @@
 
 <br/>
  
-[**ESTRUTURAS SELETIVAS**](anotaccomhes/estruturas-seletivas.md "Clique para ver o arquivo.md")    
+[**ESTRUTURAS SELETIVAS**](notas/seleccomhes.md "Clique para ver o arquivo.md")    
 
 * Condições Simples  
 
@@ -63,7 +63,7 @@
 
 <br/>
  
-[**ESTRUTURAS REPETITIVAS**](anotaccomhes/estruturas-repetitivas.md "Clique para ver o arquivo.md")    
+[**ESTRUTURAS REPETITIVAS**](notas/repeticcomhes.md "Clique para ver o arquivo.md")    
 
 * Teste lógico no início  
 
@@ -75,11 +75,11 @@
 
 <br/>
  
-[**ROTINAS**](anotaccomhes/rotinas.md "Clique para ver o arquivo.md")  
+[**ROTINAS**](notas/rotinas.md "Clique para ver o arquivo.md")  
 
 <br/>
  
-[**ORIENTAÇÃO A OBJETO**](anotaccomhes/orientaccamho-a-objeto.md "Clique para ver o arquivo.md")    
+[**ORIENTAÇÃO A OBJETO**](notas/poo.md "Clique para ver o arquivo.md")    
 
 
 *** 
