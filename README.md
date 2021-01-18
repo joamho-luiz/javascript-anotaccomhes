@@ -1,4 +1,4 @@
-&nbsp; &nbsp; &nbsp; Este repositório contém anotações pessoais sobre a linguagem JavaScript. Criado com intuito de agrupar soluções de algumas dúvidas simples que eventualmente surjam na utilização da linguagem em  questão.  
+&nbsp; &nbsp; &nbsp; Este repositório contém anotações pessoais sobre a linguagem JavaScript. Criado com intuito de agrupar soluções de algumas dúvidas simples que eventualmente surjam na utilização da linguagem em questão.  
 ***
 
 [**BÁSICO DA LÍNGUAGEM**](notas/bahsico.md "Clique para ver o arquivo.md")  
@@ -28,7 +28,7 @@
 
 <br/>
  
- [**FUNDAMENTAIS**](notas/fundamentais "Clique para ver o arquivo.md")    
+ [**MANIPULAÇÕES**](notas/fundamentais "Clique para ver o arquivo.md")    
 
 * Memoria  
 
