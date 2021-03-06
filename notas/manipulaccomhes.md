@@ -6,11 +6,14 @@ Manipulações
 
 <br/>
 
+## Constante
+* `const NÚMEOR_PRODUTO = 0`
+
 ## Variável Local
-* `let número = 1`
+* `let número_produto = 1`
 
 ## Variável Global
-* `var número = 2`  
+* `var número_produto = 2`  
 
 ## Vetores
 
@@ -39,7 +42,7 @@ Também conhecidos como variáveis compostas ou array.
 * Number        
    - Infinity
    - NaN
-* String
+* String (entre aspas simples)
 * Boolean
 * Null
 * Undefined
@@ -98,7 +101,7 @@ Dado: `var n = 1512.6` , temos:
 
 ## Concatenação
 
-\+
+\+ (dar preferencia para templete string)
 
 _Templete String_ ${}   ``alguma coisa ${variável}`` ( só funciona entre crases ).
 
