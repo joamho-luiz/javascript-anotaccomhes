@@ -4,17 +4,20 @@ Básico da Linguagem
  
 # Nomenclaturas
 
-**camelCase** - objetos, funções e instâncias
+**lower-case** - nome de arquivos
 
-**PascalCase** - método construtor
+**UPPER_CASE** - const
+
+**camelCase** - let, var, objetos, methods, funções e instâncias
+
+**PascalCase** - class, interface, método construtor
 
 **Variáveis**  
 
-* camelCase?       #edt
 * Começar com:     **`letras`** ou  **`$`** ou  **`_`**.
 * É possível usar acento e símbolo. 
 * Ao invés de espaço usamos **`_`**.
-* JS é Case-sensitive.
+* JS é case-sensitive.
 
 <br/>
 

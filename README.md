@@ -4,9 +4,6 @@
 [**BÁSICO DA LÍNGUAGEM**](notas/bahsico.md "Clique para ver o arquivo.md")  
 
 * Nomenclaturas
-  
-
-   - De variáveis
 
 * Comentários  
 
