@@ -44,10 +44,10 @@ Para disparar alguma função para certas interações.
 
 Seleção de elementos: `window.document` + . . .
 
-* **Por Marca:**      `.getElementByTagName('tag')[x]`  &nbsp; &nbsp; &nbsp; ( x faz referência a qual elemento do tipo nome ).
+* **Por Marca:**      `.getElementsByTagName('tag')[x]`  &nbsp; &nbsp; &nbsp; ( x - qual o indice da tag, 0, 1, 2, ... ).
 * **Por ID:**         `.getElementById('id')`
-* **Por Nome**        `.getElementsByName('nome')[x]`
-* **Por Classe**      `.getElementsByClasseName('')[]`
+* **Por Nome**        `.getElementsByName('nome')[]`
+* **Por Classe**      `.getElementsByClasseName('classe')[]`
 * **Por Seletor**     `querySelector('tag#id')`   &nbsp; &nbsp; &nbsp;  ( para classe: `'tag.class'` )
 
 <br/>Criação de um elemento em JavaScript.
