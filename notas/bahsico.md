@@ -14,7 +14,7 @@ Básico da Linguagem
 
 **Variáveis**  
 
-* Começar com:     **`letras`** ou  **`$`** ou  **`_`**.
+* Começar com:     **`letras`**, embora seja possível começar com  **`$`** ou  **`_`**.
 * É possível usar acento e símbolo. 
 * Ao invés de espaço usamos **`_`**.
 * JS é case-sensitive.
