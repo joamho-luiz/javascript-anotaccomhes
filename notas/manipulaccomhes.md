@@ -90,6 +90,17 @@ Dado: `var n = 1512.6` , temos:
 
 * `n.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})`       Para mostra na notação de moeda brasileira.
 
+### Utilidades
+
+Code |	Result
+-- | --
+\b	| Backspace
+\f	| Form Feed
+\n	| New Line
+\r	| Carriage Return
+\t	| Horizontal Tabulator
+\v	| Vertical Tabulator
+
 
 <br/>
 
