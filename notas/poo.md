@@ -37,6 +37,24 @@ const x = person;
 ```
 Qualquer alteração em `x` afetará `person`
 
+Através de uma função construtora
+
+```js
+function Person(first, last, age, eyecolor) {
+  this.firstName = first;
+  this.lastName = last;
+  this.age = age;
+  this.eyeColor = eyecolor;
+  this.nationality = "English";
+}
+```
+
+Note que P é maiusculo em Person
+Não é possível adicionar outras propriedades além das definidas, isso só é possível com `prototype`:
+```js
+Person.prototype.nationality = "English";
+```
+
 ## Repetições Uteis
 
 ```js
@@ -90,10 +108,20 @@ const person = {
 
 Observe o uso de `this`
 
-## Acessando Métodos
+## Metodos
+
+### Acessando Métodos
 
 ```js
 objectName.methodName()
+```
+
+### Adicionar método
+
+```js
+person.name = function () {
+  return this.firstName + " " + this.lastName;
+};
 ```
 
 ## Herança
@@ -102,7 +130,7 @@ objectName.methodName()
 class Model extends Car { ... }
 ```
 
-## Getters and Setters
+## Acessadores
 
 ```js
 class Car {
@@ -119,6 +147,14 @@ class Car {
 
 let myCar = new Car("Ford");
 let meuCarro = myCar.cnam;    // Embora seja um método não precisa ()
+```
+
+### Para criar um get
+
+```js
+Object.defineProperty(obj, "reset", {
+  get : function () {this.counter = 0;}
+});
 ```
 
 Método Estático
@@ -142,3 +178,24 @@ document.getElementById("demo").innerHTML = Car.hello();
 // document.getElementById("demo").innerHTML = myCar.hello();
 // this will raise an error.
 ```
+
+## Mostrar um objeto
+
+Com uma rotina:
+```js
+let txt = "";
+for (let x in person) {
+txt += person[x] + " ";
+};
+```
+
+Colocando em um vetor:
+```js
+const myArray = Object.values(person);
+```
+
+Tornando uma String:
+```js
+let myString = JSON.stringify(person);
+```
+
