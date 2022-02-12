@@ -45,6 +45,16 @@
    - Lógicos
 
 <br/>
+
+[**DOM**](notas/dom.md "Clique para ver o arquivo.md")    
+
+* Finding HTML Elements  
+
+* Changing HTML Elements  
+
+* Adding and Deleting Elements
+
+<br/>
  
 [**ESTRUTURAS SELETIVAS**](notas/seleccomhes.md "Clique para ver o arquivo.md")    
 
@@ -81,3 +91,7 @@
 
 *** 
 &nbsp; &nbsp; &nbsp; As videoaulas lincadas nesse documento são do curso de JavaScript do canal de YouTube 'curso em vídeo'. Recomento muito para quem tem pouca ou nem uma noção sobre a linguagem. E agradeço ao conteúdo gratuito fornecido pelo professor Guanabara.  
+
+<br/>
+ 
+[**MAIS**](notas/mais.md "Clique para ver o arquivo.md")  
